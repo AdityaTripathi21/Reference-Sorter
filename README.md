@@ -4,4 +4,4 @@ A Python script to sort academic references alphabetically by author and year.
   Run the script:
 
 ```bash
-python sort_references.py
+python script.py
